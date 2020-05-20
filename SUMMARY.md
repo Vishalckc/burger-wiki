@@ -1,4 +1,4 @@
 ## User's Guide
-  + [Home](https://github.com/Vishalckc/ReactBurgerApp/wiki.md)
-  + [Page2](https://github.com/Vishalckc/ReactBurgerApp/wiki/Page2.md)
-  + [Page3](https://github.com/Vishalckc/ReactBurgerApp/wiki/This-is-Page-3-of-the-Burger-App.md)
+  + [Home](Home.md)
+  + [Page2](Page2.md)
+  + [Page3](This-is-Page-3-of-the-Burger-App.md)
