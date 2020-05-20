@@ -1,4 +1,10 @@
+# Table of contents
+
+* [Introduction](README.md)
+
 ## User's Guide
-  + [Home](Home.md)
-  + [Page2](Page2.md)
-  + [Page3](Page3.md)
+
+* [Home](users-guide/home.md)
+* [Page2](users-guide/page2.md)
+* [Page3](users-guide/page3.md)
+
